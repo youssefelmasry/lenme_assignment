@@ -1,0 +1,12 @@
+#caching
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+#evironment files
+.env.dev
+
+#database
+db.sqlite3
+
+.vscode
